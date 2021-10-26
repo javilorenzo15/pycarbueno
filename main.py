@@ -14,5 +14,6 @@ titulo = input("nombre simulador:")
 rojo = int(input("cantidad de rojo:"))
 verde = int(input("cantidad de verde:"))
 azul = int(input("cantidad de azul:"))
-color = (rojo,verde,azul)
+color = (rojo, verde, azul)
 main2(size,titulo,color)
+
